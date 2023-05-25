@@ -1,0 +1,4 @@
+torchvision==0.11.2
+pillow
+numpy
+cv2
